@@ -2,7 +2,7 @@
 {
     public static class Configuration
     {
-        public readonly static string BotToken = "870899562:AAEWCbJy1kW8YvT-kcB8Lcxr2WAZHjb8LmQ";
+        public readonly static string BotToken = "YOUR_TOKEN";
 
 
         public static class Proxy
